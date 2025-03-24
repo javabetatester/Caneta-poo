@@ -10,7 +10,7 @@ public class Teste {
         // Configurando os atributos
         c1.modelo = "BIC";
         c1.cor = "Azul";
-        c1.ponta = 0.5f;
+        c1.ponta = 0.5F;
         c1.carga = 90;
         c1.tampada = true;
 
@@ -24,7 +24,7 @@ public class Teste {
         Caneta c2 = new Caneta();
         c2.modelo = "Faber Castell";
         c2.cor = "Vermelha";
-        c2.ponta = 1.0f;
+        c2.ponta = 0.5F;
         c2.tampada = false;
 
         c2.status();
